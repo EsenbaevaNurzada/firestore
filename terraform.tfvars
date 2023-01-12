@@ -1,0 +1,6 @@
+project_id = ""
+location_id = "us-central"
+database_type = "CLOUD_FIRESTORE"
+fields = "{\"something\":{\"mapValue\":{\"fields\":{\"akey\":{\"stringValue\":\"avalue\"}}}}}"
+document_id = "test-doc"
+collection = "testing"
