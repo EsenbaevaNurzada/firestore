@@ -1,6 +1,5 @@
 provider "google" {
   project     = var.project_id
-  credentials = file("cred.json")
 }
 
 resource "google_app_engine_application" "app" {
